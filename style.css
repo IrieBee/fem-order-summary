@@ -14,6 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    line-height: 1.6;
 }
 
 section {
@@ -40,6 +41,16 @@ section {
     padding: 1em;
     border-radius: 5%;
 }
+
+.annual {
+    display: flex;
+    gap: 0.5em;
+}
+
+.note {
+    
+}
+
 h1 {
     font-weight: 900;
     padding-top: 1em;
@@ -47,9 +58,18 @@ h1 {
     color: hsl(223, 47%, 23%);
 }
 
-h3 {
+h4 {
     font-weight: 700;
     color: hsl(223, 47%, 23%);
+}
+
+a {
+    color: hsl(245, 75%, 52%);
+    align-self: center;
+}
+
+a:hover {
+    color:hsl(224, 23%, 55%);
 }
 
 .attribution { 
