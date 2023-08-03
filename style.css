@@ -1,19 +1,18 @@
 * {
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
 body {
     font-family: 'Red Hat Display', sans-serif;
-    /* background-color: hsl(225, 100%, 94%); */
     color: hsl(224, 23%, 55%);
     font-size: 1rem;
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center;
     line-height: 1.6;
     background: url(images/pattern-background-desktop.svg) no-repeat, hsl(225, 100%, 94%);
     background-size: contain;
@@ -28,7 +27,9 @@ body {
 section {
     background-color: white;
     border-radius: 1em;
-    max-width: 375px;
+    max-width: 350px;
+    text-align: center;
+    margin: auto;
 }
 
 .hero {
@@ -38,7 +39,7 @@ section {
 }
 
 .text {
-    padding: 1em 2em;
+    padding: 1em 3.2em;
 }
 
 .plan {
@@ -79,10 +80,11 @@ a:hover {
 .proceed {
     background-color:hsl(245, 75%, 52%);
     border-radius: 0.75em;
-    box-shadow: 0 1em 1em 0 hsl(245, 75%, 85%);
+    box-shadow: 0 1em 1em 0 hsl(245, 80%, 90%);
     padding: 1em 5em;
     color: white;
-    font-weight: 700;
+    font-weight: 900;
+    font-size: 1rem;
     border-style: none;
     display: block;
     margin: 1.25em auto;
@@ -96,7 +98,8 @@ a:hover {
     border: none;
     background-color: white;
     color:hsl(224, 23%, 55%);
-    font-weight: 700;
+    font-size: 1rem;
+    font-weight: 900;
     padding-bottom: 1.75em;
 }
 
@@ -107,6 +110,7 @@ a:hover {
 .attribution { 
     font-size: 0.625rem; 
     text-align: center; 
+    margin-bottom: 0.75em;
 }
 
 .attribution a {

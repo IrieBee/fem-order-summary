@@ -6,7 +6,7 @@ This is a solution to the Order Summary Card challenge from Frontend Mentor.
 
 ### Screenshot
 
-![screenshot](https://github.com/ltsyBitsy/fem-qr-code-component/blob/main/images/screenShot.jpg)
+![screenshot](https://github.com/ltsyBitsy/fem-order-summary/blob/main/images/screenshot.jpg)
 
 ## Built with
 
@@ -16,7 +16,11 @@ This is a solution to the Order Summary Card challenge from Frontend Mentor.
 
 ### What I learned
 
-
+* To make footer stick to the bottom -> margin: auto.
+* Change layout for mobile use @media screen and (max-width: ...)
+* To use transparent background: 
+        ** -background: url(...) no-repeat, hsl(...);
+        ** -background-size: contain;
 
 ## Links
 
