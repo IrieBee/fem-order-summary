@@ -30,13 +30,13 @@ section {
 }
 
 .text {
-    padding: 1em 2.5em;
+    padding: 1em 2em;
 }
 
 .plan {
     display: flex;
     justify-content: space-between;
-    margin: 2em;
+    margin: 0.5em 2em 1.5em;
     background-color: hsl(225, 100%, 98%);
     padding: 1em;
     border-radius: 5%;
@@ -45,10 +45,6 @@ section {
 .annual {
     display: flex;
     gap: 0.5em;
-}
-
-.note {
-    
 }
 
 h1 {
@@ -70,6 +66,34 @@ a {
 
 a:hover {
     color:hsl(224, 23%, 55%);
+}
+
+.proceed {
+    background-color:hsl(245, 75%, 52%);
+    border-radius: 5%;
+    box-shadow: 0.5em 0.5em 1em hsl(245, 75%, 85%);
+    padding: 1em 5em;
+    color: white;
+    font-weight: 700;
+    border-style: none;
+    display: block;
+    margin: 1.25em auto;
+}
+
+.proceed:hover {
+    background-color:hsl(240, 40%, 60%);
+}
+
+.cancel {
+    border: none;
+    background-color: white;
+    color:hsl(224, 23%, 55%);
+    font-weight: 700;
+    padding-bottom: 1.75em;
+}
+
+.cancel:hover {
+    color:hsl(223, 47%, 23%);
 }
 
 .attribution { 
