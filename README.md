@@ -19,8 +19,9 @@ This is a solution to the Order Summary Card challenge from Frontend Mentor.
 * To make footer stick to the bottom -> margin: auto.
 * Change layout for mobile use @media screen and (max-width: ...)
 * To use transparent background: 
-        ** -background: url(...) no-repeat, hsl(...);
-        ** -background-size: contain;
+         -background: url(...) no-repeat, hsl(...);
+         -background-size: contain;
+* To make border-radius work with image -> overflow: hidden.
 
 ## Links
 
@@ -33,6 +34,7 @@ This is a solution to the Order Summary Card challenge from Frontend Mentor.
 
 ## Acknowledgements
 
+* Melvin Aguilar
 * Odin project
 * Kevin Powell
 * Frontend Mentor
