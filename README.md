@@ -20,10 +20,12 @@ This is a solution to the Order Summary Card challenge from Frontend Mentor.
 
 ## Links
 
-- Solution URL: https://github.com/ltsyBitsy/fem-order-summary
-- Live Site URL: https://ltsybitsy.github.io/fem-order-summary/
+* Solution URL: https://github.com/ltsyBitsy/fem-order-summary
+* Live Site URL: https://ltsybitsy.github.io/fem-order-summary/
 
 ## Useful resources
+* https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+* https://www.frontendmentor.io/solutions/order-summary-card-component-DYqJlnAlf2
 
 ## Acknowledgements
 
