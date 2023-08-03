@@ -24,7 +24,7 @@ body {
     }
 }
 
-section {
+main {
     background-color: white;
     border-radius: 1em;
     max-width: 350px;
