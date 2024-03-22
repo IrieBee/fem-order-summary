@@ -6,7 +6,7 @@ This is a solution to the Order Summary Card challenge from Frontend Mentor.
 
 ### Screenshot
 
-![screenshot](https://github.com/ltsyBitsy/fem-order-summary/blob/main/images/screenshot.jpg)
+![screenshot](https://github.com/IrieBee/fem-order-summary/blob/main/images/screenshot.jpg)
 
 ## Built with
 
@@ -25,8 +25,8 @@ This is a solution to the Order Summary Card challenge from Frontend Mentor.
 
 ## Links
 
-* Solution URL: https://github.com/ltsyBitsy/fem-order-summary
-* Live Site URL: https://ltsybitsy.github.io/fem-order-summary/
+* Solution URL: https://github.com/IrieBee/fem-order-summary
+* Live Site URL: https://IrieBee.github.io/fem-order-summary/
 
 ## Useful resources
 * https://www.w3schools.com/css/css_rwd_mediaqueries.asp
